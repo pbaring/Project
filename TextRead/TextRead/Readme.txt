@@ -1,0 +1,1 @@
+﻿This project will let you read at loud what's written on the text file.

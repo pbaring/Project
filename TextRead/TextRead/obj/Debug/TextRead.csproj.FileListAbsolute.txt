@@ -1,0 +1,7 @@
+C:\Users\pinkyb\Documents\Personal\Programming\Projects\PluralSight Exercises\TextRead\TextRead\bin\Debug\TextRead.exe.config
+C:\Users\pinkyb\Documents\Personal\Programming\Projects\PluralSight Exercises\TextRead\TextRead\bin\Debug\TextRead.exe
+C:\Users\pinkyb\Documents\Personal\Programming\Projects\PluralSight Exercises\TextRead\TextRead\bin\Debug\TextRead.pdb
+C:\Users\pinkyb\Documents\Personal\Programming\Projects\PluralSight Exercises\TextRead\TextRead\obj\Debug\TextRead.csprojResolveAssemblyReference.cache
+C:\Users\pinkyb\Documents\Personal\Programming\Projects\PluralSight Exercises\TextRead\TextRead\obj\Debug\TextRead.exe
+C:\Users\pinkyb\Documents\Personal\Programming\Projects\PluralSight Exercises\TextRead\TextRead\obj\Debug\TextRead.pdb
+C:\Users\pinkyb\Documents\Personal\Programming\Projects\PluralSight Exercises\TextRead\TextRead\bin\Debug\TextFile1.txt
